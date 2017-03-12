@@ -1,0 +1,2 @@
+# MyBots
+For testing bots
